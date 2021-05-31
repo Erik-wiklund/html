@@ -1,0 +1,13 @@
+  /* div {
+    /* flex-grow: 1; flex-grow ser till så att elementet växer så mycket som det tillåts att göra, testa att sätta till 0 och se skillnaden */
+    border: red solid 2px;
+  }  */
+  
+  /* ID selektor, väljs över annan styling då den är väldigt specifik */
+   /* (1, 0, 0)
+   #main-content {
+    display: flex;
+    flex-direction: row;
+  
+    margin-top: 4rem;
+  }  */ */

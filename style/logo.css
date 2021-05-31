@@ -1,0 +1,41 @@
+.logoblock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+
+.logoblock1 {
+    min-height: 92px;
+}
+
+.logoblock2 {
+    max-height: 290px;
+    height: calc(100% - 560px);
+}
+
+.logoblock3 {
+    flex-shrink: 1;
+    box-sizing: border-box;
+}
+
+.logoframe {
+    height: 100%;
+    margin-top: auto;
+}
+.logoframe1 {
+    max-height: 92px;
+    position: relative;
+}
+
+img {
+    height: 92px;
+    aspect-ratio: auto 272 / 92;
+}
+
+.image {
+   max-width: 100%;
+   max-width: 100%;
+   width: auto;
+   object-fit: contain;
+   object-position: center bottom;
+}
