@@ -1,8 +1,5 @@
 ### Erik Wiklund
 
-### Google.com
-
-
 [Google.com](https://www.google.com "Google's Hemsida")
 
 #### Jag har tittat i inspektorn hur Google har byggt upp sin sidan och valde att följa deras standard. Med en body och 4 stora huvudblock som håller den information som finns.
